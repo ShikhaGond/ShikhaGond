@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Front-End Developer | 🛠 Back-End Explorer | 📊 Data Analyst Enthusiast | 🐍 Python Lover<br><br>I craft sleek and responsive UIs while keeping an eye on the backend. Passionate about data analysis, I love uncovering insights through Python. Always learning, always building.<br><br>💡 Tech Stack:<br>🔹 Frontend: React.js, JavaScript, HTML, CSS<br>🔹 Backend: Node.js, Express, SQL, Firebase<br>🔹 Data & Python: Pandas, NumPy, Matplotlib, Jupyter<br><br>🌱 Currently diving deeper into data visualization & backend optimizations.<br>🎯 Open to collaborations on exciting projects!<br><br>Let’s connect and build something awesome! 🚀
+🚀 Front-End Developer | 🛠 Back-End Explorer | 📊 Data Analyst Enthusiast | 🐍 Python Lover<br><br>I craft sleek and responsive UIs while keeping an eye on the backend. Passionate about data analysis, I love uncovering insights through Python. Always learning, always building.<br><br>💡 Tech Stack:<br>🔹 Frontend: React.js, JavaScript, HTML, CSS<br>🔹 Backend: Node.js, Express, SQL <br>🔹 Data & Python: Pandas, NumPy, Matplotlib, Jupyter<br><br>🌱 Currently diving deeper into data visualization & backend optimizations.<br>🎯 Open to collaborations on exciting projects!<br><br>Let’s connect and build something awesome! 🚀
 
 
 ## 🌐 Socials:
